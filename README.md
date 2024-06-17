@@ -1,2 +1,2 @@
 # Hourglass-of-thrills
-A baldur's gate 3 game genre tweak mod by substractive design
+A BALDUR'S GATE 3 genre tweak mod by substractive design
